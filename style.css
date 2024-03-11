@@ -1,0 +1,38 @@
+.form1 {
+    background-color:aquamarine;
+    width: 500px;
+    height: 900px;
+    border: 1px solid red;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.sub button {
+    background-color: green;
+    width: 475px;
+}
+
+.title input {
+    width: 470px;
+}
+
+.phone input {
+    width: 470px;
+}
+
+.comment textarea {
+    width: 470px;
+}
+
+.mail input {
+    width: 470px;
+}
+
+.pass input {
+    width: 470px;
+}
+
+.repass input {
+    width: 470px;
+}
